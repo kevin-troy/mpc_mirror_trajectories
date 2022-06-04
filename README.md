@@ -1,5 +1,5 @@
 # Pointing Mirror Trajectories
-Linear Model Predictive Control (MPC) applied to a mirror for pointing trajectory generation and control simulation.
+Linear Model Predictive Control (MPC) applied to a mirror for step-stare pointing trajectory generation and control simulation.
 
 Applies Linear MPC with a linearized, discretized model of a pointing mirror. Enforces kinematic (state) and actuator (control) constraints. Includes simulation with of the Linear MPC controller with the full nonlinear system.  
  
